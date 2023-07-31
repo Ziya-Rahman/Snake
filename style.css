@@ -62,7 +62,17 @@ body{
     text-align: center;
     font-size: 1.3rem;
     color: #b8c6dc;
-    width: calc(100% / 4);
+    width: calc(100% / 3);
+    cursor: pointer;
+    border-right: 1px solid #171b26;
+}
+
+.controlsSmall i{
+    padding: 25px 0;
+    text-align: center;
+    font-size: 1.3rem;
+    color: #b8c6dc;
+    width: calc(100% / 3);
     cursor: pointer;
     border-right: 1px solid #171b26;
 }
